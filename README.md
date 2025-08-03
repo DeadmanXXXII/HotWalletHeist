@@ -1,9 +1,6 @@
 # HotWalletHeist
 Sherlock for htb
 
-Great! Based on the Sherlock template and questions template you provided, here’s how we can structure the write-up and questions for submission:
-
-
 ---
 
 1. Write-up Template
