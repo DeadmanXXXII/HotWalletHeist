@@ -110,7 +110,7 @@ questions:
   requires: null
 ```
 
-Here's a detailed walkthrough to help answer the questions from the PCAP file and artifacts you've provided. Here's a structured approach for each question, with insights into what to look for in the PCAP traffic and what tools to use.
+Here's a detailed walkthrough to help answer the questions from the PCAP file and artifacts provided. Here's a structured approach for each question, with insights into what to look for in the PCAP traffic and what tools to use.
 
 
 ---
