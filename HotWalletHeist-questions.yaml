@@ -1,0 +1,77 @@
+scenario: >
+  CoinStash Exchange was targeted by attacker *DeadmanXXXII*, who exfiltrated wallet data using SMB and RDP. Your task is to investigate the provided PCAP and answer the questions below.
+
+description: >
+  Analyze the provided PCAP to identify suspicious activity, lateral movement, and data exfiltration techniques used by the attacker. Reassemble the exfiltrated files and determine the identity of the compromised host.
+
+questions:
+- number: 1
+  type: free
+  title: Which user account was compromised first?
+  flag: compromised_user
+  answer_case_sensitive: false
+  placeholder: Enter the username of the first compromised user
+  requires: null
+- number: 2
+  type: free
+  title: What is the IP address of the host that initiated the RDP session to the wallet server?
+  flag: rdp_ip
+  answer_case_sensitive: false
+  placeholder: Enter the RDP source IP
+  requires: null
+- number: 3
+  type: free
+  title: What is the name of the exfiltrated file?
+  flag: exfil_file_name
+  answer_case_sensitive: false
+  placeholder: Enter the name of the exfiltrated file
+  requires: null
+- number: 4
+  type: free
+  title: What was the size of the reassembled exfiltrated file?
+  flag: exfil_file_size
+  answer_case_sensitive: false
+  placeholder: Enter the size of the reassembled file in bytes
+  requires: null
+- number: 5
+  type: free
+  title: What is the file hash of the reassembled exfiltrated file?
+  flag: exfil_file_hash
+  answer_case_sensitive: false
+  placeholder: Enter the file hash of the exfiltrated file
+  requires: null
+- number: 6
+  type: free
+  title: Which attacker tool was used for file exfiltration?
+  flag: exfil_tool
+  answer_case_sensitive: false
+  placeholder: Enter the name of the exfiltration tool
+  requires: null
+- number: 7
+  type: free
+  title: What method did the attacker use to avoid detection by network monitoring?
+  flag: evasion_method
+  answer_case_sensitive: false
+  placeholder: Describe the evasion method used by the attacker
+  requires: null
+- number: 8
+  type: free
+  title: What is the cryptocurrency wallet public address targeted by the attacker?
+  flag: target_wallet
+  answer_case_sensitive: false
+  placeholder: Enter the wallet address
+  requires: null
+- number: 9
+  type: free
+  title: How did the attacker maintain persistence on the compromised host?
+  flag: persistence_method
+  answer_case_sensitive: false
+  placeholder: Describe the persistence mechanism used
+  requires: null
+- number: 10
+  type: free
+  title: What CVE or vulnerability was exploited during the attack?
+  flag: exploited_cve
+  answer_case_sensitive: false
+  placeholder: Enter the CVE ID
+  requires: null
