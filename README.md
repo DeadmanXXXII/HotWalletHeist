@@ -24,21 +24,3 @@ The analysis was focused on SMB traffic, specifically looking for large file tra
 
 
 ---
-
-2. Questions Template
-
-Here’s a draft of the questions and their respective answers (based on the PCAP and analysis):
-
-scenario: >
-  CoinStash Exchange was targeted by attacker *DeadmanXXXII*, who exfiltrated wallet data using SMB and RDP. Your task is to investigate the provided PCAP and answer the questions below.
-
-description: >
-  Analyze the provided PCAP to identify suspicious activity, lateral movement, and data exfiltration techniques used by the attacker. Reassemble the exfiltrated files and determine the identity of the compromised host.
-
-
-
-
----
-
-
-
