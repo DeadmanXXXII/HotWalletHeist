@@ -1,5 +1,6 @@
 <img src="./assets/banner.png" style="max-width: 100%;" align=left />
 
+---
 # HotWalletHeist
 
 #### Date: 03/08/2025
@@ -108,7 +109,6 @@ questions:
   placeholder: Enter the CVE ID
   requires: null
 ```
----
 
 <img src="./assets/htb.png" style="max-width: 100%;" align=center />
-
+---
