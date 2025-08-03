@@ -7,7 +7,7 @@
 
 #### Prepared by: DeadmanXXXII and AirFryerRamsey
 
-#### Machine Author(s): DeadmanXXXII
+#### Machine Author(s): DeadmanXXXII and AirFryerRamsey 
 
 #### Difficulty: Hard
 
