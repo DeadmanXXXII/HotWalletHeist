@@ -297,7 +297,10 @@ Once you've gathered the data from Wireshark, Zeek, NetworkMiner, and any other 
 1. Reassemble any files that were split during exfiltration.
 
 
-This should give you everything you need to solve the case step-by-step. Once you’ve completed your investigation, you can finalize your answers.
+This should give you everything you need to solve the case step-by-step. Once you’ve completed your investigation, you can finalize your answers and earn the badge below.
+
+<img src="./assets/badge.png" style="max-width: 50%;" align=center />
+
 
 
 <img src="./assets/htb.png" style="max-width: 100%;" align=center />
