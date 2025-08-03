@@ -1,3 +1,5 @@
+<img src="./assets/banner.png" style="max-width: 100%;" align=left />
+
 # HotWalletHeist
 Sherlock for htb
 
