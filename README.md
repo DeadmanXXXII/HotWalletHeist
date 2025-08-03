@@ -1,13 +1,13 @@
 # HotWalletHeist
 Sherlock for htb
 
-03/08/2025
+#### Date: 03/08/2025
 
-Prepared by: DeadmanXXXII and AirFryerRamsey
+#### Prepared by: DeadmanXXXII and AirFryerRamsey
 
-Machine Author(s): DeadmanXXXII
+#### Machine Author(s): DeadmanXXXII
 
-Difficulty: Hard
+#### Difficulty: Hard
 
 ---
 
