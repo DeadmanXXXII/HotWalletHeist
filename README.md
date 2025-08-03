@@ -1,6 +1,14 @@
 # HotWalletHeist
 Sherlock for htb
 
+03/08/2025
+
+Prepared by: DeadmanXXXII and AirFryerRamsey
+
+Machine Author(s): DeadmanXXXII
+
+Difficulty: Hard
+
 ---
 
 1. Scenario
