@@ -3,12 +3,11 @@ Sherlock for htb
 
 ---
 
-1. Write-up Template
-
-Scenario
+1. Scenario
 
 CoinStash Exchange, a mid-sized cryptocurrency exchange, fell victim to a sophisticated attack. The attacker, known as *DeadmanXXXII*, successfully gained access to the internal network and exfiltrated high-value wallet data by leveraging RDP to gain access to a Windows workstation. Lateral movement was performed to a Linux-based wallet server, where data was siphoned via SMB-based file transfer. Stealthy exfiltration methods, such as split-file archiving and evasion of network monitoring tools, were used to avoid detection.
 
+2. Descriptiom
 Artifacts Provided
 
 - bitvalutis_intrusion_capture.pcap - *<insert file hash here>*
